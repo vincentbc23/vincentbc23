@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:12715B,100:1FA67A&height=190&section=header&text=Vincent%20Collares&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Dados%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20LLMs%20%26%20RAG&descSize=18&descAlignY=58" width="100%" alt="Vincent Collares"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:12715B,100:1FA67A&height=190&section=header&text=Vincent%20Collares&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Dados%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20LLMs%20e%20RAG&descSize=18&descAlignY=58" width="100%" alt="Vincent Collares"/>
 
 <a href="https://github.com/vincentbc23">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=900&color=1FA67A&center=true&vCenter=true&width=620&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFLA;Vice-presidente+do+NIAD+(IA+e+Ci%C3%AAncia+de+Dados);GraphRAG+com+Neo4j+e+LLMs+locais;Buscando+est%C3%A1gio+em+Dados+%2F+IA" alt="Typing SVG"/>
